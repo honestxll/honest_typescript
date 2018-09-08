@@ -8,3 +8,4 @@ var isDone = false;
 var arr = ['apple', 'pear'];
 // 如果不确定变量的类型可以这样
 var ghost = '👻';
+var array = ['🍎', '🍐', '🍌'];
